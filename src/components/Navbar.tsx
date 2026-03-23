@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Menu, X } from "lucide-react";
-import midwallLogo from "@/assets/midwall-logo.jpg";
+import midwallLogo from "@/assets/midwall-logo.png";
 
 const navLinks = [
   { label: "Início", href: "#inicio" },
