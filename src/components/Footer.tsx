@@ -1,4 +1,4 @@
-import midwallLogo from "@/assets/midwall-logo.jpg";
+import midwallLogo from "@/assets/midwall-logo.png";
 import { Instagram, Facebook, Linkedin } from "lucide-react";
 
 const Footer = () => {
