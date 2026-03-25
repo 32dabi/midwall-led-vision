@@ -4,24 +4,25 @@ import ledFoldable from "@/assets/led-panel-foldable.avif";
 import ledOutdoor from "@/assets/led-outdoor-billboard.jpg";
 
 const products = [
-{
-  image: led3d,
-  title: "Painel de LED 3D — P5 Outdoor",
-  desc: "Os dois únicos painéis de LED 3D do Piauí. Tecnologia imersiva anamórfica para publicidade de alto impacto. Medidas e aplicações conforme projeto.",
-  badge: "Exclusivo no Piauí"
-},
-{
-  image: ledFoldable,
-  title: "Painel de LED P2.7 Indoor Dobrável",
-  desc: "Painéis dobráveis de 1,28m × 2,07m, acopláveis em até 6 módulos, gerando um painel de 7,68m × 2,07m. Ideal para eventos indoor de todos os portes.",
-  badge: "Locação"
-},
-{
-  image: ledOutdoor,
-  title: "Mídia em Painéis LED — Publicidade",
-  desc: "Venda de mídia publicitária em nossos painéis de LED espalhados por toda a cidade de Teresina. Visibilidade garantida para a sua marca.",
-  badge: "Publicidade"
-}];
+  {
+    image: led3d,
+    title: "Painel de LED 3D para Publicidade",
+    desc: "Os dois únicos painéis de LED 3D do Piauí. Tecnologia imersiva anamórfica para publicidade de alto impacto. Medidas e aplicações conforme projeto.",
+    badge: "Exclusivo no Piauí"
+  },
+  {
+    image: ledFoldable,
+    title: "Painel de LED P2.7 Indoor Dobrável",
+    desc: "Painéis dobráveis de 1,28m × 2,07m, acopláveis em até 6 módulos, gerando um painel de 7,68m × 2,07m. Ideal para eventos indoor de todos os portes.",
+    badge: "Locação"
+  },
+  {
+    image: ledOutdoor,
+    title: "Painel de LED para Publicidade",
+    desc: "Venda de mídia publicitária em nossos painéis de LED espalhados por toda a cidade de Teresina. Visibilidade garantida para a sua marca.",
+    badge: "Publicidade"
+  }
+];
 
 
 const ProductsSection = () => {
