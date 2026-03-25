@@ -40,8 +40,8 @@ const FeaturesSection = () => {
           className="mb-14">
           
           <h2 className="font-heading text-3xl md:text-5xl font-bold text-foreground">
-            Tecnologia que entrega<br />
-            <span className="text-gradient">o que promete</span>
+            Tecnologia de ponta para a sua<br />
+            <span className="text-gradient text-left ml-0 mr-[160px]">campanha brilhar</span>
           </h2>
           <p className="mt-4 text-muted-foreground text-lg max-w-xl">
             Somos referência em LED no Piauí. Diferentes em cada detalhe.

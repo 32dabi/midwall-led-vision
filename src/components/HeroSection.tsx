@@ -29,7 +29,7 @@ const HeroSection = () => {
             className="font-heading text-4xl md:text-6xl lg:text-7xl font-black leading-tight text-foreground"
           >
             Painel de LED é com a{" "}
-            <span className="text-gradient">Midwall!</span>
+            <span className="text-gradient text-left ml-0 mr-[160px]">Midwall!</span>
           </motion.h1>
 
           <motion.p
@@ -38,7 +38,7 @@ const HeroSection = () => {
             transition={{ duration: 0.7, delay: 0.2 }}
             className="mt-6 text-lg md:text-xl text-muted-foreground leading-relaxed max-w-lg"
           >
-            Locação de painéis de LED para eventos e venda de mídia publicitária em Teresina, Piauí. Os dois únicos painéis de LED 3D do estado.
+            A Midwall chegou trazendo o que há de mais moderno em mídia DOOH. Os dois únicos painéis de LED 3D do estado.
           </motion.p>
 
           <motion.div
