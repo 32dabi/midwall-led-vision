@@ -25,14 +25,14 @@ const ContactSection = () => {
             {
               icon: MessageCircle,
               title: "WhatsApp",
-              info: "(86) 9 9999-9999",
-              href: "https://wa.me/5586999999999?text=Olá, vim pelo site da Midwall",
+              info: "(85) 9 9235 1307",
+              href: "https://wa.me/5585992351307?text=Olá, vim pelo site da Midwall",
             },
             {
               icon: Phone,
               title: "Telefone",
-              info: "(86) 9 9999-9999",
-              href: "tel:+5586999999999",
+              info: "(85) 9 9235 1307",
+              href: "tel:+5585992351307",
             },
             {
               icon: Mail,
