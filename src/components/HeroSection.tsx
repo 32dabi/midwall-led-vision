@@ -26,7 +26,7 @@ const HeroSection = () => {
             initial={{ opacity: 0, y: 30 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.7 }}
-            className="font-heading text-4xl md:text-6xl lg:text-7xl font-black leading-tight text-foreground"
+            className="font-heading text-4xl md:text-6xl font-black leading-tight text-foreground lg:text-4xl"
           >
             Painel de LED é com a{" "}
             <span className="text-gradient text-left ml-0 mr-[160px]">Midwall!</span>
