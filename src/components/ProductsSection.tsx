@@ -36,7 +36,7 @@ const ProductsSection = () => {
           className="mb-14 text-center">
           
           <h2 className="font-heading text-3xl md:text-5xl font-bold text-foreground">
-            Nossos <span className="text-gradient">equipamentos</span>
+            Conheça nossos <span className="text-gradient text-left ml-0 mr-[160px]">Equipamentos</span>
           </h2>
           <p className="mt-4 text-muted-foreground text-lg max-w-2xl mx-auto">
             Conheça nossa linha de painéis de LED, desenvolvidos para oferecer impacto visual e alta definição.
