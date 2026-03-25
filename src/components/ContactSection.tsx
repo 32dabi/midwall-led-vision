@@ -69,7 +69,7 @@ const ContactSection = () => {
 
         <div className="text-center">
           <a
-            href="https://wa.me/5586999999999?text=Olá, vim pelo site da Midwall"
+            href="https://wa.me/5585992351307?text=Olá, vim pelo site da Midwall"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-8 py-4 rounded-full bg-primary text-primary-foreground font-semibold text-lg hover:opacity-90 transition-opacity"
