@@ -36,11 +36,8 @@ const LocationsSection = () => {
           transition={{ delay: 0.1 }}
           className="flex flex-col items-center gap-6"
         >
-          <img
-            src="/Midwall_Logo.png"
-            alt="Midwall Logo"
-            className="h-16 md:h-20 mb-4"
-          />
+
+
 
           <div className="flex flex-col sm:flex-row gap-4">
             {locations.map((loc, i) => (
