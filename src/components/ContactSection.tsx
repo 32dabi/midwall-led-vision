@@ -16,7 +16,7 @@ const ContactSection = () => {
             Central de <span className="text-gradient">vendas</span>
           </h2>
           <p className="mt-4 text-muted-foreground text-lg">
-            Fale com a gente pelo canal que for melhor para você.
+            Fale com a gente e garanta já a sua mídia!
           </p>
         </motion.div>
 
