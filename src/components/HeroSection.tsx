@@ -1,13 +1,20 @@
 import { motion } from "framer-motion";
-import heroImage from "@/assets/hero-event.jpg";
 
 const HeroSection = () => {
   return (
     <section id="inicio" className="relative min-h-screen flex items-center overflow-hidden">
-      {/* Background image */}
+      {/* Background video */}
       <div className="absolute inset-0">
-        <img src={heroImage} alt="Evento com painel LED Midwall" className="w-full h-full object-cover" width={1920} height={1080} />
-        <div className="absolute inset-0 bg-gradient-to-r from-midwall-darkest/95 via-midwall-darker/80 to-transparent" />
+        <video
+          autoPlay
+          loop
+          muted
+          playsInline
+          className="w-full h-full object-cover"
+        >
+          <source src="/midwall-hero-bg.mp4" type="video/mp4" />
+        </video>
+        <div className="absolute inset-0 bg-gradient-to-r from-midwall-darkest/80 via-midwall-darker/50 to-transparent" />
       </div>
 
       {/* Dot pattern overlay */}
